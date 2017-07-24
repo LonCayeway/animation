@@ -1,0 +1,27 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "Animation with GSAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LonCayeway/animation.git"
+  },
+  "keywords": [
+    "GreenSock",
+    "Animation",
+    "Platform",
+    "Scalable",
+    "Vector",
+    "Graphics"
+  ],
+  "author": "John Barclay-Morton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LonCayeway/animation/issues"
+  },
+  "homepage": "https://github.com/LonCayeway/animation#readme"
+}
